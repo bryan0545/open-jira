@@ -14,6 +14,12 @@ docker-compose up -d
 mongodb://localhost:27017/entriesdb
 ```
 
+## Recostruir los modulos del proyecto
+
+```
+yarn install
+```
+
 ## Configurar las variables de entorno
 
 Renombrar el Archivo **.env.template** a **.env**
